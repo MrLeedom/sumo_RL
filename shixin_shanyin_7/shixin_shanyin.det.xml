@@ -1,0 +1,61 @@
+<additional>
+   <laneAreaDetector id="gneE0_0" lanes="gneE0_0" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE0_1" lanes="gneE0_1" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE0_2" lanes="gneE0_2" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE0_3" lanes="gneE0_3" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE0_4" lanes="gneE0_4" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE0_5" lanes="gneE0_5" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_0" lanes="gneE1_0" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_1" lanes="gneE1_1" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_2" lanes="gneE1_2" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE1_3" lanes="gneE1_3" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_0" lanes="gneE2_0" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_1" lanes="gneE2_1" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/>
+   
+   <laneAreaDetector id="gneE2_2" lanes="gneE2_2" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_3" lanes="gneE2_3" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_4" lanes="gneE2_4" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE2_5" lanes="gneE2_5" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_0" lanes="gneE3_0" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_1" lanes="gneE3_1" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_2" lanes="gneE3_2" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/> 
+   
+   <laneAreaDetector id="gneE3_3" lanes="gneE3_3" 
+   pos="-100" endPos="-1" freq="30" file="./output/resultsOfDetectors.xml"/>
+</additional>

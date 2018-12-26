@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <bounds minlat='30.1787999' minlon='120.2619267' maxlat='30.1797367' maxlon='120.2629995' origin='CGImap 0.6.1 (12513 thorn-01.openstreetmap.org)' />
+  <node id='999091505' timestamp='2018-04-17T04:22:27Z' uid='6161085' user='方恨少' version='3' changeset='58156294' lat='30.1802143' lon='120.2731199' />
+  <node id='1286462366' timestamp='2018-04-17T04:22:27Z' uid='6161085' user='方恨少' version='3' changeset='58156294' lat='30.1798138' lon='120.2672074' />
+  <node id='1286462450' timestamp='2018-04-17T04:22:28Z' uid='6161085' user='方恨少' version='3' changeset='58156294' lat='30.1791603' lon='120.2646657' />
+  <node id='1286462487' timestamp='2018-04-17T04:22:27Z' uid='6161085' user='方恨少' version='2' changeset='58156294' lat='30.1800363' lon='120.2705479' />
+  <node id='1286462561' timestamp='2017-08-06T03:57:45Z' uid='313111' user='melcomsx' version='2' changeset='50874534' lat='30.1796667' lon='120.2603114' />
+  <node id='1286462629' timestamp='2018-04-17T12:38:46Z' uid='6161085' user='方恨少' version='3' changeset='58166736' lat='30.1834659' lon='120.2622405' />
+  <node id='1286462665' timestamp='2018-04-18T05:11:28Z' uid='6161085' user='方恨少' version='2' changeset='58188864' lat='30.1800248' lon='120.2491862' />
+  <node id='1286462842' timestamp='2018-04-17T04:22:28Z' uid='6161085' user='方恨少' version='2' changeset='58156294' lat='30.1793897' lon='120.2652369' />
+  <node id='1286462875' timestamp='2018-04-17T04:22:27Z' uid='6161085' user='方恨少' version='2' changeset='58156294' lat='30.1801461' lon='120.271886' />
+  <node id='1286462922' timestamp='2018-04-17T12:38:46Z' uid='6161085' user='方恨少' version='4' changeset='58166736' lat='30.1792068' lon='120.262386' />
+  <node id='1286463001' timestamp='2017-08-06T03:57:45Z' uid='313111' user='melcomsx' version='2' changeset='50874534' lat='30.1799007' lon='120.256339' />
+  <node id='1286463189' timestamp='2018-04-17T04:22:28Z' uid='6161085' user='方恨少' version='2' changeset='58156294' lat='30.179561' lon='120.2655698' />
+  <node id='1286463400' timestamp='2018-04-17T04:22:28Z' uid='6161085' user='方恨少' version='2' changeset='58156294' lat='30.1791123' lon='120.2642954' />
+  <node id='1286463600' timestamp='2017-08-06T03:57:45Z' uid='313111' user='melcomsx' version='2' changeset='50874534' lat='30.1798689' lon='120.258951' />
+  <node id='1666789309' timestamp='2012-03-09T04:41:56Z' uid='619810' user='bg5hsc' version='1' changeset='10916024' lat='30.1688207' lon='120.2628271' />
+  <node id='1666789339' timestamp='2018-04-17T12:38:46Z' uid='6161085' user='方恨少' version='2' changeset='58166736' lat='30.1720369' lon='120.2626641' />
+  <node id='1666789347' timestamp='2018-04-17T12:38:46Z' uid='6161085' user='方恨少' version='2' changeset='58166736' lat='30.1746629' lon='120.2625432' />
+  <node id='1666789388' timestamp='2012-03-09T04:42:01Z' uid='619810' user='bg5hsc' version='1' changeset='10916024' lat='30.1693948' lon='120.2628056' />
+  <node id='1666789389' timestamp='2018-04-17T12:38:46Z' uid='6161085' user='方恨少' version='3' changeset='58166736' lat='30.1673343' lon='120.2629244' />
+  <node id='1666789409' timestamp='2018-04-17T12:38:46Z' uid='6161085' user='方恨少' version='2' changeset='58166736' lat='30.1775273' lon='120.2624637' />
+  <node id='1670213787' timestamp='2018-04-17T12:38:46Z' uid='6161085' user='方恨少' version='2' changeset='58166736' lat='30.1762094' lon='120.2625096' />
+  <node id='5017307303' timestamp='2018-04-18T05:11:28Z' uid='6161085' user='方恨少' version='2' changeset='58188864' lat='30.1800609' lon='120.2449931' />
+  <node id='5017309744' timestamp='2017-08-06T03:57:40Z' uid='313111' user='melcomsx' version='1' changeset='50874534' lat='30.1798575' lon='120.2590276' />
+  <node id='5017309756' timestamp='2017-08-06T03:57:40Z' uid='313111' user='melcomsx' version='1' changeset='50874534' lat='30.1799577' lon='120.2527213' />
+  <node id='5017309757' timestamp='2017-08-06T03:57:40Z' uid='313111' user='melcomsx' version='1' changeset='50874534' lat='30.1799639' lon='120.2523297' />
+  <node id='5261880316' timestamp='2017-12-03T12:39:24Z' uid='3450290' user='ff5722' version='1' changeset='54296477' lat='30.1797057' lon='120.2633271' />
+  <node id='5261880317' timestamp='2017-12-03T12:39:25Z' uid='3450290' user='ff5722' version='1' changeset='54296477' lat='30.1807143' lon='120.2632923' />
+  <node id='5261880318' timestamp='2017-12-03T12:39:25Z' uid='3450290' user='ff5722' version='1' changeset='54296477' lat='30.1807059' lon='120.2629647' />
+  <node id='5261880319' timestamp='2017-12-03T12:39:25Z' uid='3450290' user='ff5722' version='1' changeset='54296477' lat='30.1796973' lon='120.2629995' />
+  <node id='5261880357' timestamp='2018-04-17T12:38:46Z' uid='6161085' user='方恨少' version='2' changeset='58166736' lat='30.182115' lon='120.2622942' />
+  <node id='5261880527' timestamp='2018-04-17T12:38:46Z' uid='6161085' user='方恨少' version='2' changeset='58166736' lat='30.1810751' lon='120.2623285' />
+  <node id='5261880534' timestamp='2018-04-17T04:22:27Z' uid='6161085' user='方恨少' version='2' changeset='58156294' lat='30.1796512' lon='120.2658718' />
+  <node id='5261880535' timestamp='2018-04-17T04:22:28Z' uid='6161085' user='方恨少' version='2' changeset='58156294' lat='30.1797188' lon='120.2662454' />
+  <node id='5558285055' timestamp='2018-04-17T04:22:24Z' uid='6161085' user='方恨少' version='1' changeset='58156294' lat='30.1792426' lon='120.2649214' />
+  <node id='5559176964' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1812829' lon='120.2625257' />
+  <node id='5559176965' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1762534' lon='120.2627137' />
+  <node id='5559176966' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1677499' lon='120.2628758' />
+  <node id='5559176967' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1849898' lon='120.2622589' />
+  <node id='5559176968' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.183999' lon='120.2623883' />
+  <node id='5559176969' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1835781' lon='120.262426' />
+  <node id='5559176970' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1834586' lon='120.2624237' />
+  <node id='5559176971' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1821576' lon='120.2624852' />
+  <node id='5559176973' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1791969' lon='120.2625857' />
+  <node id='5559176974' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.175801' lon='120.2627334' />
+  <node id='5559176975' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1737661' lon='120.2628073' />
+  <node id='5559176976' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1747303' lon='120.2627723' />
+  <node id='5559176977' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1713049' lon='120.2628813' />
+  <node id='5559176978' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.168785' lon='120.2629737' />
+  <node id='5559176979' timestamp='2018-04-17T12:38:42Z' uid='6161085' user='方恨少' version='1' changeset='58166736' lat='30.1677355' lon='120.2629984' />
+  <node id='5843022038' timestamp='2018-08-20T03:34:37Z' uid='6161085' user='方恨少' version='1' changeset='61809294' lat='30.1720662' lon='120.2626628' />
+  <node id='5843022039' timestamp='2018-08-20T03:34:37Z' uid='6161085' user='方恨少' version='1' changeset='61809294' lat='30.1720728' lon='120.2628582' />
+  <way id='113467467' timestamp='2018-04-17T12:38:51Z' uid='6161085' user='方恨少' version='7' changeset='58166736'>
+    <nd ref='999091505' />
+    <nd ref='1286462875' />
+    <nd ref='1286462487' />
+    <nd ref='1286462366' />
+    <nd ref='5261880535' />
+    <nd ref='5261880534' />
+    <nd ref='1286463189' />
+    <nd ref='1286462842' />
+    <nd ref='5558285055' />
+    <nd ref='1286462450' />
+    <nd ref='1286463400' />
+    <nd ref='5559176973' />
+    <nd ref='1286462922' />
+    <nd ref='1286462561' />
+    <nd ref='5017309744' />
+    <nd ref='1286463600' />
+    <nd ref='1286463001' />
+    <nd ref='5017309756' />
+    <nd ref='5017309757' />
+    <nd ref='1286462665' />
+    <nd ref='5017307303' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='山阴路' />
+    <tag k='source' v='bing' />
+  </way>
+  <way id='154081296' timestamp='2018-08-20T03:34:39Z' uid='6161085' user='方恨少' version='8' changeset='61809294'>
+    <nd ref='1286462629' />
+    <nd ref='5261880357' />
+    <nd ref='5261880527' />
+    <nd ref='1286462922' />
+    <nd ref='1666789409' />
+    <nd ref='1670213787' />
+    <nd ref='1666789347' />
+    <nd ref='5843022038' />
+    <nd ref='1666789339' />
+    <nd ref='1666789388' />
+    <nd ref='1666789309' />
+    <nd ref='5559176966' />
+    <nd ref='1666789389' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='name' v='市心中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='353612859' timestamp='2018-08-20T03:34:39Z' uid='6161085' user='方恨少' version='4' changeset='61809294'>
+    <nd ref='1666789389' />
+    <nd ref='5559176979' />
+    <nd ref='5559176978' />
+    <nd ref='5559176977' />
+    <nd ref='5843022039' />
+    <nd ref='5559176975' />
+    <nd ref='5559176976' />
+    <nd ref='5559176974' />
+    <nd ref='5559176965' />
+    <nd ref='5559176973' />
+    <nd ref='5559176964' />
+    <nd ref='5559176971' />
+    <nd ref='5559176970' />
+    <nd ref='5559176969' />
+    <nd ref='5559176968' />
+    <nd ref='5559176967' />
+    <tag k='highway' v='primary' />
+    <tag k='name' v='市心中路' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='544319778' timestamp='2017-12-03T12:39:36Z' uid='3450290' user='ff5722' version='1' changeset='54296477'>
+    <nd ref='5261880319' />
+    <nd ref='5261880318' />
+    <nd ref='5261880317' />
+    <nd ref='5261880316' />
+    <nd ref='5261880319' />
+    <tag k='building' v='yes' />
+  </way>
+</osm>

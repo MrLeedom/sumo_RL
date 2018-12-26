@@ -1,0 +1,8 @@
+<configuration>
+    <input>
+      <net-file value="shixin_shanyin.net.xml"/>
+      <route-files value="shixin_shanyin.rou.xml"/>
+      <additional-files value="shixin_shanyin.det.xml"/>
+    </input>
+</configuration>
+
