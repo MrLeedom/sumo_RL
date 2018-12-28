@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-39909' action='modify' lat='30.17941133295' lon='120.26242602189' />
+  <node id='-39910' action='modify' lat='30.17726479877' lon='120.26252534503' />
+  <node id='-39912' action='modify' lat='30.17587872614' lon='120.26258210111' />
+  <node id='-39914' action='modify' lat='30.17424730594' lon='120.26263885719' />
+  <node id='-39916' action='modify' lat='30.17363398309' lon='120.26266723523' />
+  <node id='-39919' action='modify' lat='30.17201479243' lon='120.26273818032' />
+  <node id='-39921' action='modify' lat='30.17039557517' lon='120.26283750346' />
+  <node id='-39923' action='modify' lat='30.16979449532' lon='120.26288007052' />
+  <node id='-39926' action='modify' lat='30.16979449532' lon='120.26309290581' />
+  <node id='-39927' action='modify' lat='30.17045690964' lon='120.26305033875' />
+  <node id='-39929' action='modify' lat='30.17160999061' lon='120.26297939365' />
+  <node id='-39931' action='modify' lat='30.17305745614' lon='120.26290844856' />
+  <node id='-39933' action='modify' lat='30.17380571388' lon='120.2628658815' />
+  <node id='-39935' action='modify' lat='30.17570699897' lon='120.26276655836' />
+  <node id='-39940' action='modify' lat='30.17802529051' lon='120.26266723523' />
+  <node id='-39942' action='modify' lat='30.17936840272' lon='120.26258210111' />
+  <node id='-39945' action='modify' lat='30.17977317268' lon='120.26240473836' />
+  <node id='-39947' action='modify' lat='30.17976703981' lon='120.26255372307' />
+  <node id='-40054' action='modify' lat='30.17450491267' lon='120.2566794548' />
+  <node id='-40055' action='modify' lat='30.17462757646' lon='120.26039697791' />
+  <node id='-40057' action='modify' lat='30.17470117466' lon='120.26215641633' />
+  <node id='-40059' action='modify' lat='30.17477477281' lon='120.26471043985' />
+  <node id='-40061' action='modify' lat='30.17482383821' lon='120.26771851198' />
+  <node id='-40063' action='modify' lat='30.1748483709' lon='120.26856985315' />
+  <node id='-40091' action='modify' lat='30.17487289132' lon='120.26916580616' />
+  <node id='-40094' action='modify' lat='30.17519182793' lon='120.26913741393' />
+  <node id='-40095' action='modify' lat='30.17509369747' lon='120.26607258572' />
+  <node id='-40097' action='modify' lat='30.17502009957' lon='120.26408612299' />
+  <node id='-40099' action='modify' lat='30.17497103426' lon='120.26229830653' />
+  <node id='-40101' action='modify' lat='30.17489743626' lon='120.2601699536' />
+  <node id='-40103' action='modify' lat='30.17482383821' lon='120.25835375911' />
+  <node id='-40105' action='modify' lat='30.17477477281' lon='120.25670783284' />
+  <way id='-39911' action='modify'>
+    <nd ref='-39909' />
+    <nd ref='-39910' />
+    <nd ref='-39912' />
+    <nd ref='-39914' />
+    <nd ref='-39916' />
+    <nd ref='-39919' />
+    <nd ref='-39921' />
+    <nd ref='-39923' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='４' />
+    <tag k='name' v='市中心路' />
+  </way>
+  <way id='-39928' action='modify'>
+    <nd ref='-39926' />
+    <nd ref='-39927' />
+    <nd ref='-39929' />
+    <nd ref='-39931' />
+    <nd ref='-39933' />
+    <nd ref='-39935' />
+    <nd ref='-39940' />
+    <nd ref='-39942' />
+    <nd ref='-39947' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='４' />
+    <tag k='name' v='市中心路' />
+  </way>
+  <way id='-39946' action='modify'>
+    <nd ref='-39945' />
+    <nd ref='-39909' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='４' />
+    <tag k='name' v='市中心路' />
+  </way>
+  <way id='-40056' action='modify'>
+    <nd ref='-40054' />
+    <nd ref='-40055' />
+    <nd ref='-40057' />
+    <nd ref='-40059' />
+    <nd ref='-40061' />
+    <nd ref='-40063' />
+    <nd ref='-40091' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='４' />
+    <tag k='name' v='山阴路' />
+  </way>
+  <way id='-40096' action='modify'>
+    <nd ref='-40094' />
+    <nd ref='-40095' />
+    <nd ref='-40097' />
+    <nd ref='-40099' />
+    <nd ref='-40101' />
+    <nd ref='-40103' />
+    <nd ref='-40105' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='４' />
+    <tag k='name' v='山阴路' />
+  </way>
+</osm>

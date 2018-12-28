@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-39909' action='modify' lat='30.17941133295' lon='120.26242602189' />
+  <node id='-39910' action='modify' lat='30.17726479877' lon='120.26252534503' />
+  <node id='-39912' action='modify' lat='30.17587872614' lon='120.26258210111' />
+  <node id='-39914' action='modify' lat='30.17424730594' lon='120.26263885719' />
+  <node id='-39916' action='modify' lat='30.17363398309' lon='120.26266723523' />
+  <node id='-39919' action='modify' lat='30.17201479243' lon='120.26273818032' />
+  <node id='-39921' action='modify' lat='30.17039557517' lon='120.26283750346' />
+  <node id='-39923' action='modify' lat='30.16979449532' lon='120.26288007052' />
+  <node id='-39945' action='modify' lat='30.17977317268' lon='120.26240473836' />
+  <node id='-40094' action='modify' lat='30.17519182793' lon='120.26913741393' />
+  <node id='-40095' action='modify' lat='30.17509369747' lon='120.26607258572' />
+  <node id='-40097' action='modify' lat='30.17502009957' lon='120.26408612299' />
+  <node id='-40099' action='modify' lat='30.17497103426' lon='120.26229830653' />
+  <node id='-40101' action='modify' lat='30.17489743626' lon='120.2601699536' />
+  <node id='-40103' action='modify' lat='30.17482383821' lon='120.25835375911' />
+  <node id='-40105' action='modify' lat='30.17477477281' lon='120.25670783284' />
+  <way id='-39911' action='modify'>
+    <nd ref='-39909' />
+    <nd ref='-39910' />
+    <nd ref='-39912' />
+    <nd ref='-39914' />
+    <nd ref='-39916' />
+    <nd ref='-39919' />
+    <nd ref='-39921' />
+    <nd ref='-39923' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='10' />
+    <tag k='lanes:backward' v='4' />
+    <tag k='lanes:forward' v='6' />
+    <tag k='name' v='市中心路' />
+  </way>
+  <way id='-39946' action='modify'>
+    <nd ref='-39945' />
+    <nd ref='-39909' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='４' />
+    <tag k='name' v='市中心路' />
+  </way>
+  <way id='-40096' action='modify'>
+    <nd ref='-40094' />
+    <nd ref='-40095' />
+    <nd ref='-40097' />
+    <nd ref='-40099' />
+    <nd ref='-40101' />
+    <nd ref='-40103' />
+    <nd ref='-40105' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='lanes:backward' v='2' />
+    <tag k='lanes:forward' v='4' />
+    <tag k='name' v='山阴路' />
+  </way>
+</osm>
