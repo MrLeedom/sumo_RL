@@ -1,22 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' generator='JOSM'>
-  <node id='-40270' action='modify' lat='30.17744880151' lon='120.25247950503' />
-  <node id='-40271' action='modify' lat='30.17752239761' lon='120.25873686263' />
-  <node id='-40274' action='modify' lat='30.17769412161' lon='120.26451179357' />
-  <node id='-40298' action='modify' lat='30.17212520491' lon='120.25889294185' />
-  <node id='-40303' action='modify' lat='30.1829928867' lon='120.25862335048' />
+  <node id='-40270' action='modify' lat='30.1764869394' lon='120.26126560014' />
+  <node id='-40271' action='modify' lat='30.17656053621' lon='120.26752295775' />
+  <node id='-40298' action='modify' lat='30.17116329083' lon='120.26767903696' />
+  <node id='-40303' action='modify' lat='30.18203107871' lon='120.26740944559' />
+  <node id='-40515' action='modify' lat='30.17665601199' lon='120.2737599114' />
   <way id='-40272' action='modify'>
     <nd ref='-40270' />
-    <nd ref='-40271' />
-    <tag k='highway' v='primary' />
-    <tag k='lanes' v='6' />
-    <tag k='lanes:backward' v='2' />
-    <tag k='lanes:forward' v='4' />
-    <tag k='name' v='山阴路' />
-    <tag k='width' v='5' />
-  </way>
-  <way id='-40275' action='modify'>
-    <nd ref='-40274' />
     <nd ref='-40271' />
     <tag k='highway' v='primary' />
     <tag k='lanes' v='6' />
@@ -33,7 +23,6 @@
     <tag k='lanes:backward' v='4' />
     <tag k='lanes:forward' v='6' />
     <tag k='name' v='市中心路' />
-    <tag k='width' v='5' />
   </way>
   <way id='-40304' action='modify'>
     <nd ref='-40303' />
@@ -44,5 +33,14 @@
     <tag k='lanes:forward' v='6' />
     <tag k='name' v='市中心路' />
     <tag k='width' v='5' />
+  </way>
+  <way id='-40516' action='modify'>
+    <nd ref='-40515' />
+    <nd ref='-40271' />
+    <tag k='highway' v='primary' />
+    <tag k='lanes' v='6' />
+    <tag k='lanes:backward' v='2' />
+    <tag k='lanes:forward' v='4' />
+    <tag k='name' v='山阴路' />
   </way>
 </osm>

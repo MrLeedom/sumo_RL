@@ -293,33 +293,31 @@
     <connection from="-40272" to="--40299" fromLane="0" toLane="0" via=":-40271_20_0" dir="r" state="m"/>
     <connection from="-40272" to="--40275" fromLane="1" toLane="0" via=":-40271_21_0" dir="s" state="m"/>
     <connection from="-40272" to="--40275" fromLane="2" toLane="1" via=":-40271_21_1" dir="s" state="m"/>
-    <connection from="-40272" to="--40275" fromLane="2" toLane="2" via=":-40271_23_0" dir="l" state="m"/>
     <connection from="-40272" to="--40304" fromLane="3" toLane="3" via=":-40271_24_0" dir="l" state="m"/>
-    <connection from="-40272" to="--40304" fromLane="3" toLane="1" via=":-40271_25_0" dir="t" state="m"/>
     <connection from="-40275" to="--40304" fromLane="0" toLane="0" via=":-40271_7_0" dir="r" state="m"/>
     <connection from="-40275" to="--40272" fromLane="1" toLane="0" via=":-40271_8_0" dir="s" state="m"/>
     <connection from="-40275" to="--40272" fromLane="2" toLane="1" via=":-40271_8_1" dir="s" state="m"/>
-    <connection from="-40275" to="--40272" fromLane="2" toLane="2" via=":-40271_10_0" dir="l" state="m"/>
+    <!-- <connection from="-40275" to="--><!--40272" fromLane="2" toLane="2" via=":-40271_10_0" dir="l" state="m"/> -->
     <connection from="-40275" to="--40299" fromLane="3" toLane="3" via=":-40271_11_0" dir="l" state="m"/>
-    <connection from="-40275" to="--40299" fromLane="3" toLane="1" via=":-40271_12_0" dir="t" state="m"/>
+    <!-- <connection from="-40275" to="--><!--40299" fromLane="3" toLane="1" via=":-40271_12_0" dir="t" state="m"/> -->
     <connection from="-40282" to="-40275" fromLane="0" toLane="0" via=":-40274_0_0" dir="s" state="M"/>
     <connection from="-40282" to="-40275" fromLane="1" toLane="1" via=":-40274_0_1" dir="s" state="M"/>
     <connection from="-40282" to="-40275" fromLane="2" toLane="2" via=":-40274_0_2" dir="s" state="M"/>
     <connection from="-40282" to="-40275" fromLane="3" toLane="3" via=":-40274_0_3" dir="s" state="M"/>
     <connection from="-40282" to="--40282" fromLane="3" toLane="1" via=":-40274_4_0" dir="t" state="m"/>
     <connection from="-40299" to="--40275" fromLane="0" toLane="0" via=":-40271_13_0" dir="r" state="M"/>
-    <connection from="-40299" to="--40275" fromLane="0" toLane="0" via=":-40271_14_0" dir="s" state="M"/>
-    <connection from="-40299" to="--40304" fromLane="1" toLane="1" via=":-40271_14_1" dir="s" state="M"/>
-    <connection from="-40299" to="--40304" fromLane="2" toLane="2" via=":-40271_14_2" dir="s" state="M"/>
-    <connection from="-40299" to="--40304" fromLane="3" toLane="3" via=":-40271_14_3" dir="s" state="M"/>
-    <connection from="-40299" to="--40304" fromLane="4" toLane="1" via=":-40271_18_0" dir="l" state="m"/>
+    
+    <connection from="-40299" to="--40304" fromLane="1" toLane="0" via=":-40271_14_1" dir="s" state="M"/>
+    <connection from="-40299" to="--40304" fromLane="2" toLane="1" via=":-40271_14_2" dir="s" state="M"/>
+    <connection from="-40299" to="--40304" fromLane="3" toLane="2" via=":-40271_14_3" dir="s" state="M"/>
+    <connection from="-40299" to="--40304" fromLane="4" toLane="3" via=":-40271_18_0" dir="l" state="m"/>
     <connection from="-40299" to="--40272" fromLane="5" toLane="1" via=":-40271_19_0" dir="t" state="m"/>
     <connection from="-40304" to="--40272" fromLane="0" toLane="0" via=":-40271_0_0" dir="r" state="M"/>
-    <connection from="-40304" to="--40272" fromLane="0" toLane="0" via=":-40271_1_0" dir="s" state="M"/>
-    <connection from="-40304" to="--40299" fromLane="1" toLane="1" via=":-40271_1_1" dir="s" state="M"/>
-    <connection from="-40304" to="--40299" fromLane="2" toLane="2" via=":-40271_1_2" dir="s" state="M"/>
-    <connection from="-40304" to="--40299" fromLane="3" toLane="3" via=":-40271_1_3" dir="s" state="M"/>
-    <connection from="-40304" to="--40299" fromLane="4" toLane="1" via=":-40271_5_0" dir="l" state="m"/>
+    
+    <connection from="-40304" to="--40299" fromLane="1" toLane="0" via=":-40271_1_1" dir="s" state="M"/>
+    <connection from="-40304" to="--40299" fromLane="2" toLane="1" via=":-40271_1_2" dir="s" state="M"/>
+    <connection from="-40304" to="--40299" fromLane="3" toLane="2" via=":-40271_1_3" dir="s" state="M"/>
+    <connection from="-40304" to="--40299" fromLane="4" toLane="3" via=":-40271_5_0" dir="l" state="m"/>
     <connection from="-40304" to="--40275" fromLane="5" toLane="1" via=":-40271_6_0" dir="t" state="m"/>
 
     <connection from=":-40270_0" to="-40272" fromLane="0" toLane="3" dir="t" state="M"/>
