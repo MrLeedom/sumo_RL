@@ -1,8 +1,8 @@
 <configuration>
     <input>
-      <net-file value="shixin_shanyin.net.xml"/>
-      <route-files value="shixin_shanyin.rou.xml"/>
-      <additional-files value="shixin_shanyin.det.xml"/>
+      <net-file value="forth.net.xml"/>
+      <route-files value="shixin_shanyin_high.rou.xml"/>
+      
     </input>
 </configuration>
 
